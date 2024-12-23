@@ -7,7 +7,7 @@ This repository contains the HTML and CSS code for a simple clone interface of A
 Here are some screenshots of the project:
 
 ### Homepage
-![Screenshot 1](./screenshot1.jpeg)
+![Screenshot 1](./screenshort1.jpeg)
 ![Screenshot 2](./screenshot2.jpeg)
 
 ## Features
